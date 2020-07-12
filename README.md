@@ -1,1 +1,1 @@
-"# lighthouse-reports" 
+# lighthouse-reports
